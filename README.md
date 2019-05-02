@@ -1,4 +1,4 @@
-#Event Management System (EMS): Microservices patterns demo application 
+#**Event Management System (EMS): Microservices patterns demo application** 
 
 It is intended to aid the demonstration of Microservices patterns using Spring Boot 2.1.4 and Spring Cloud.
 Event Management System is a platform for event organizers and users to collaborate on events to be conducted.
